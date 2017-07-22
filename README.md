@@ -1,5 +1,5 @@
 # Cpp-Stash
-A sweet C++ code stash containing code on object oriented programming, STL etc... 
+A playful code stash 
 
 # Important Notice
 UploadStart-sept-2017-23
